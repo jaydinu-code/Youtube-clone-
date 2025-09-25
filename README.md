@@ -16,3 +16,7 @@ The goal was to recreate the layout of YouTube’s homepage to get hands-on expe
 ## 📂 Project Structure
 
 inspiried by SuperSimpleDevs's HTML and CSS tutorial 
+
+https://jaydinu-code.github.io/Youtube-clone-/ 
+
+click link to view 
